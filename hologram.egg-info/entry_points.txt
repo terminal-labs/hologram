@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        hologram=hologram.__main__:main
-     
