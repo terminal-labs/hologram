@@ -1,0 +1,8 @@
+setup.py
+hologram.egg-info/PKG-INFO
+hologram.egg-info/SOURCES.txt
+hologram.egg-info/dependency_links.txt
+hologram.egg-info/entry_points.txt
+hologram.egg-info/not-zip-safe
+hologram.egg-info/requires.txt
+hologram.egg-info/top_level.txt
