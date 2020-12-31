@@ -32,6 +32,12 @@ context_settings = {"help_option_names": ["-h", "--help"]}
 def cli(ctx):
     pass
 
+
+@click.group(name="system")
+def system_group():
+    pass
+
+
 @system_group.command(name="showlayout")
 def showlayout_command():
     print(*showlayout().items(), sep='\n')
